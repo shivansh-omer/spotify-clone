@@ -25,3 +25,10 @@ This project recreates the basic UI of Spotify including the sidebar, music card
 
 ---
 
+## 💡 What I Learned
+
+- Building UI using HTML & CSS
+- Layout design using Flexbox
+- Organizing assets and project structure
+- Creating a real-world website clone
+
