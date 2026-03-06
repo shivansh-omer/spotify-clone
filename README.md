@@ -16,6 +16,10 @@ This project recreates the basic UI of Spotify including the sidebar, music card
 
 ---
 
+## 📸 Preview
+<img width="1470" height="956" alt="Screenshot 2026-03-06 at 10 28 44 AM" src="https://github.com/user-attachments/assets/140279f9-54f9-4d47-9b38-9b83334f0441" />
+<img width="1470" height="956" alt="Screenshot 2026-03-06 at 10 29 12 AM" src="https://github.com/user-attachments/assets/6e12b95b-d35a-4038-872c-462507bacb4f" />
+
 ## 🛠 Technologies Used
 
 - HTML5
