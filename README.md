@@ -5,6 +5,12 @@ This project recreates the basic UI of Spotify including the sidebar, music card
 
 ---
 
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![Status](https://img.shields.io/badge/Project-Completed-green)
+
+---
+
 ## 🚀 Features
 
 - 🎧 Spotify inspired UI
