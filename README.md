@@ -55,6 +55,7 @@ This project recreates the basic UI of Spotify including the sidebar, music card
 
 ## 📂 Project Structure
 
+```
 spotify-clone/
 │
 ├── index.html
@@ -63,3 +64,4 @@ spotify-clone/
 │   ├── images
 │   └── icons
 └── README.md
+```
